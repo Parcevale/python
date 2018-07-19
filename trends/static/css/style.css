@@ -1,0 +1,28 @@
+/*.main_background_color {
+	background: #f8f8f8
+}
+.menu_link {
+    color: #000000a8;
+    font-size: 19px;
+}
+.no_markers li {
+	display: block;
+	background: red;
+}
+
+.no_markers li {
+	color: red!important;
+	display: block;
+}*/
+
+body {
+    background­color: #f8f8f8;
+}
+.menu li {
+    /*font-style: italic;*/
+    font-size: 18px;
+    list-style-type: none;
+}
+.menu li a {
+    color: #8B00FF;
+}
