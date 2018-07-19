@@ -5,7 +5,7 @@ from django.http import JsonResponse
 
 def main(request):
 	print('some text')
-	content = {
+	content = { 
 		'title': {'name':'ololo'},
 		'links_menu': "links_menu",
 		'same_products': "same_products"
